@@ -1,5 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+# Archved files
+src/App_class.js
+src/App_original.css
+
 # dependencies
 /node_modules
 /.pnp
